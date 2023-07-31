@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmeml version="4">
+	<project>
+		<name>SqMainProject</name>
+		<children>
+			<clip id="masterclip-1">
+				<masterclipid>masterclip-1</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>60</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>60</out>
+				<name>Sq1</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-1">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Sq1</name>
+								<enabled>TRUE</enabled>
+								<duration>60</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>60</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-1">
+									<name>Sq1.avi</name>
+									<pathurl>file://localhost/C%3a\Users\kevinbae2002\OneDrive%20-%20중앙대학교\언리얼%20비교과\Finalproj_v2\Saved\VideoCaptures/Sq1.avi</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>60</duration>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>24</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Sequence/SqMain.SqMain:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_1][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-2">
+				<masterclipid>masterclip-2</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>60</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>60</out>
+				<name>Sq1_2</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-2">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Sq1_2</name>
+								<enabled>TRUE</enabled>
+								<duration>60</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>60</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-2">
+									<name>Sq1_2.avi</name>
+									<pathurl>file://localhost/C%3a\Users\kevinbae2002\OneDrive%20-%20중앙대학교\언리얼%20비교과\Finalproj_v2\Saved\VideoCaptures/Sq1_2.avi</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>60</duration>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>24</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Sequence/SqMain.SqMain:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_0][UE4ShotStartOffset=60][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-3">
+				<masterclipid>masterclip-3</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>48</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>48</out>
+				<name>Sq1_3</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-3">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Sq1_3</name>
+								<enabled>TRUE</enabled>
+								<duration>48</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>48</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-3">
+									<name>Sq1_3.avi</name>
+									<pathurl>file://localhost/C%3a\Users\kevinbae2002\OneDrive%20-%20중앙대학교\언리얼%20비교과\Finalproj_v2\Saved\VideoCaptures/Sq1_3.avi</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>48</duration>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>24</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Sequence/SqMain.SqMain:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_3][UE4ShotStartOffset=120][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-4">
+				<masterclipid>masterclip-4</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>73</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>73</out>
+				<name>Sq1_4</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-4">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Sq1_4</name>
+								<enabled>TRUE</enabled>
+								<duration>73</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>73</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-4">
+									<name>Sq1_4.avi</name>
+									<pathurl>file://localhost/C%3a\Users\kevinbae2002\OneDrive%20-%20중앙대학교\언리얼%20비교과\Finalproj_v2\Saved\VideoCaptures/Sq1_4.avi</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>73</duration>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>24</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Sequence/SqMain.SqMain:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_4][UE4ShotStartOffset=168][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-5" explodedTracks="true">
+				<masterclipid>masterclip-5</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>240</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>240</out>
+				<name>beach</name>
+				<media>
+					<audio>
+						<track>
+							<clipitem id="clipitem-5">
+								<masterclipid>masterclip-5</masterclipid>
+								<name>beach</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-5">
+									<name>beach.wav</name>
+									<pathurl>file://localhost/C%3a/Users/kevinbae2002/OneDrive%20-%20중앙대학교/언리얼%20비교과/beach.wav</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<duration>240</duration>
+									<media>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>1</sourcechannel>
+												<channellabel>left</channellabel>
+											</audiochannel>
+										</audio>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>2</sourcechannel>
+												<channellabel>right</channellabel>
+											</audiochannel>
+										</audio>
+									</media>
+								</file>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-5</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-6</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="clipitem-6">
+								<masterclipid>masterclip-5</masterclipid>
+								<name>beach</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-5" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-5</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-6</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4SoundWave=/Game/Audio/beach.beach][UE4AudioSectionTopLevel=/Game/Sequence/SqMain][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_0.MovieSceneAudioSection_1]</lognote>
+				</logginginfo>
+			</clip>
+			<clip id="masterclip-6" explodedTracks="true">
+				<masterclipid>masterclip-6</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>76</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>76</out>
+				<name>gull</name>
+				<media>
+					<audio>
+						<track>
+							<clipitem id="clipitem-7">
+								<masterclipid>masterclip-6</masterclipid>
+								<name>gull</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-6">
+									<name>gull.wav</name>
+									<pathurl>file://localhost/C%3a/Users/kevinbae2002/OneDrive%20-%20중앙대학교/언리얼%20비교과/gull.wav</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<duration>76</duration>
+									<media>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>1</sourcechannel>
+												<channellabel>left</channellabel>
+											</audiochannel>
+										</audio>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>2</sourcechannel>
+												<channellabel>right</channellabel>
+											</audiochannel>
+										</audio>
+									</media>
+								</file>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-7</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-8</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="clipitem-8">
+								<masterclipid>masterclip-6</masterclipid>
+								<name>gull</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-6" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-7</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-8</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4SoundWave=/Game/Audio/gull.gull][UE4AudioSectionTopLevel=/Game/Sequence/SqMain][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_0][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_1][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_2]</lognote>
+				</logginginfo>
+			</clip>
+			<clip id="masterclip-7" explodedTracks="true">
+				<masterclipid>masterclip-7</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>66</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>66</out>
+				<name>gull</name>
+				<media>
+					<audio>
+						<track>
+							<clipitem id="clipitem-9">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>gull</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-7">
+									<name>gull.wav</name>
+									<pathurl>file://localhost/C%3a/Users/kevinbae2002/OneDrive%20-%20중앙대학교/언리얼%20비교과/gull.wav</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<duration>66</duration>
+									<media>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>1</sourcechannel>
+												<channellabel>left</channellabel>
+											</audiochannel>
+										</audio>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>2</sourcechannel>
+												<channellabel>right</channellabel>
+											</audiochannel>
+										</audio>
+									</media>
+								</file>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-9</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-10</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="clipitem-10">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>gull</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-7" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-9</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-10</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4SoundWave=/Game/Audio/gull.gull][UE4AudioSectionTopLevel=/Game/Sequence/SqMain][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_0][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_1][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_2]</lognote>
+				</logginginfo>
+			</clip>
+			<clip id="masterclip-8" explodedTracks="true">
+				<masterclipid>masterclip-8</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>43</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>43</out>
+				<name>gull</name>
+				<media>
+					<audio>
+						<track>
+							<clipitem id="clipitem-11">
+								<masterclipid>masterclip-8</masterclipid>
+								<name>gull</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-8">
+									<name>gull.wav</name>
+									<pathurl>file://localhost/C%3a/Users/kevinbae2002/OneDrive%20-%20중앙대학교/언리얼%20비교과/gull.wav</pathurl>
+									<rate>
+										<timebase>24</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<timecode>
+										<rate>
+											<timebase>24</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<duration>43</duration>
+									<media>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>1</sourcechannel>
+												<channellabel>left</channellabel>
+											</audiochannel>
+										</audio>
+										<audio>
+											<samplecharacteristics>
+												<depth>16</depth>
+												<samplerate>44100</samplerate>
+											</samplecharacteristics>
+											<channelcount>1</channelcount>
+											<layout>stereo</layout>
+											<audiochannel>
+												<sourcechannel>2</sourcechannel>
+												<channellabel>right</channellabel>
+											</audiochannel>
+										</audio>
+									</media>
+								</file>
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-11</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-12</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+						<track>
+							<clipitem id="clipitem-12">
+								<masterclipid>masterclip-8</masterclipid>
+								<name>gull</name>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<file id="file-8" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-11</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-12</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+						</track>
+					</audio>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4SoundWave=/Game/Audio/gull.gull][UE4AudioSectionTopLevel=/Game/Sequence/SqMain][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_0][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_1][UE4AudioSection=SqMain:MovieScene_0.MovieSceneAudioTrack_1.MovieSceneAudioSection_2]</lognote>
+				</logginginfo>
+			</clip>
+			<sequence id="sequence-1">
+				<duration>240</duration>
+				<rate>
+					<timebase>24</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<name>SqMain</name>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<width>1920</width>
+								<height>1080</height>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="clipitem-13">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Sq1</name>
+								<enabled>TRUE</enabled>
+								<duration>60</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>60</end>
+								<in>0</in>
+								<out>60</out>
+								<file id="file-1" />
+							</clipitem>
+							<clipitem id="clipitem-14">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Sq1_2</name>
+								<enabled>TRUE</enabled>
+								<duration>60</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>60</start>
+								<end>120</end>
+								<in>0</in>
+								<out>60</out>
+								<file id="file-2" />
+							</clipitem>
+							<clipitem id="clipitem-15">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Sq1_3</name>
+								<enabled>TRUE</enabled>
+								<duration>48</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>120</start>
+								<end>168</end>
+								<in>0</in>
+								<out>48</out>
+								<file id="file-3" />
+							</clipitem>
+							<clipitem id="clipitem-16">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Sq1_4</name>
+								<enabled>TRUE</enabled>
+								<duration>73</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>168</start>
+								<end>241</end>
+								<in>0</in>
+								<out>73</out>
+								<file id="file-4" />
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</video>
+					<audio>
+						<numOutputChannels>2</numOutputChannels>
+						<format>
+							<samplecharacteristics>
+								<depth>16</depth>
+								<samplerate>44100</samplerate>
+							</samplecharacteristics>
+						</format>
+						<outputs>
+							<group>
+								<index>1</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>1</index>
+								</channel>
+							</group>
+							<group>
+								<index>2</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>2</index>
+								</channel>
+							</group>
+						</outputs>
+						<track currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+							<clipitem id="clipitem-17" premiereChannelType="stereo">
+								<masterclipid>masterclip-6</masterclipid>
+								<name>gull</name>
+								<enabled>TRUE</enabled>
+								<duration>76</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>76</end>
+								<in>0</in>
+								<out>76</out>
+								<file id="file-6" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-17</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-20</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<clipitem id="clipitem-18" premiereChannelType="stereo">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>gull</name>
+								<enabled>TRUE</enabled>
+								<duration>66</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>119</start>
+								<end>185</end>
+								<in>0</in>
+								<out>66</out>
+								<file id="file-7" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-18</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>2</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-21</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>2</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<clipitem id="clipitem-19" premiereChannelType="stereo">
+								<masterclipid>masterclip-8</masterclipid>
+								<name>gull</name>
+								<enabled>TRUE</enabled>
+								<duration>43</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>76</start>
+								<end>119</end>
+								<in>0</in>
+								<out>43</out>
+								<file id="file-8" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-19</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>3</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-22</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>3</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+						<track currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+							<clipitem id="clipitem-20" premiereChannelType="stereo">
+								<masterclipid>masterclip-6</masterclipid>
+								<name>gull</name>
+								<enabled>TRUE</enabled>
+								<duration>76</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>76</end>
+								<in>0</in>
+								<out>76</out>
+								<file id="file-6" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-17</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-20</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<clipitem id="clipitem-21" premiereChannelType="stereo">
+								<masterclipid>masterclip-7</masterclipid>
+								<name>gull</name>
+								<enabled>TRUE</enabled>
+								<duration>66</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>119</start>
+								<end>185</end>
+								<in>0</in>
+								<out>66</out>
+								<file id="file-7" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-18</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>2</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-21</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>2</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<clipitem id="clipitem-22" premiereChannelType="stereo">
+								<masterclipid>masterclip-8</masterclipid>
+								<name>gull</name>
+								<enabled>TRUE</enabled>
+								<duration>43</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>76</start>
+								<end>119</end>
+								<in>0</in>
+								<out>43</out>
+								<file id="file-8" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-19</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>3</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-22</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>3</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+						<track currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+							<clipitem id="clipitem-23" premiereChannelType="stereo">
+								<masterclipid>masterclip-5</masterclipid>
+								<name>beach</name>
+								<enabled>TRUE</enabled>
+								<duration>240</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>240</end>
+								<in>0</in>
+								<out>240</out>
+								<file id="file-5" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-23</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-24</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+						<track currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+							<clipitem id="clipitem-24" premiereChannelType="stereo">
+								<masterclipid>masterclip-5</masterclipid>
+								<name>beach</name>
+								<enabled>TRUE</enabled>
+								<duration>240</duration>
+								<rate>
+									<timebase>24</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>240</end>
+								<in>0</in>
+								<out>240</out>
+								<file id="file-5" />
+								<sourcetrack>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+								</sourcetrack>
+								<link>
+									<linkclipref>clipitem-23</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>1</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+								<link>
+									<linkclipref>clipitem-24</linkclipref>
+									<mediatype>audio</mediatype>
+									<trackindex>2</trackindex>
+									<clipindex>1</clipindex>
+									<groupindex>1</groupindex>
+								</link>
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</audio>
+				</media>
+				<timecode>
+					<rate>
+						<timebase>24</timebase>
+						<ntsc>FALSE</ntsc>
+					</rate>
+					<string>00:00:00:00</string>
+					<frame>0</frame>
+				</timecode>
+			</sequence>
+		</children>
+	</project>
+</xmeml>
